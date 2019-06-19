@@ -5,7 +5,7 @@ title = "Muhammad Rizki Fadillah"
 MetaDataFormat = "yaml"
 
 themesDir = "themes"
-theme = "hyde-hyde"
+theme = "hyde"
 paginate = 5
 
 disqusShortname = "mrizkifadil26"
@@ -14,13 +14,11 @@ disqusShortname = "mrizkifadil26"
   author = "Muhammad Rizki Fadillah"
   title = "Personal Blog"
   description = "Electrical Engineering Student at UNTIRTA"
-  authorimage = "images/profile.jpg"
+  authorImage = "images/profile.jpg"
   dateformat = "Jan 2, 2018"
+  themeColor = "theme-base-0g"
 
-  copyright = "Copyright (c) 2019, Muhammad Rizki Fadillah; All Right Reserved."
-
-  highlightjs = true
-  highlightjsstyle = "github"
+  copyright = "© 2019. All rights reserved."
   
 [params.social]
   github = "mrizkifadil26"
