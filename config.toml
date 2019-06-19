@@ -1,0 +1,43 @@
+baseURL = "http://mrizkifadil26.github.io/"
+languageCode = "en-us"
+title = "Muhammad Rizki Fadillah"
+
+MetaDataFormat = "yaml"
+
+themesDir = "themes"
+theme = "hyde-hyde"
+paginate = 5
+
+disqusShortname = "mrizkifadil26"
+
+[params]
+  author = "Muhammad Rizki Fadillah"
+  title = "Personal Blog"
+  description = "Electrical Engineering Student at UNTIRTA"
+  authorimage = ""
+  dateformat = "Jan 2, 2018"
+
+  copyright = "Copyright (c) 2019, Muhammad Rizki Fadillah; All Right Reserved."
+
+  highlightjs = true
+  highlightjsstyle = "github"
+  
+[params.social]
+  github = "mrizkifadil26"
+  instagram = "mrizkifadil26"
+  linkedin = "mrizkifadil26"
+  twitter = "mrizkifadil26"
+  facebook = "mrizkifadil26"
+  email = "mrizkifadil26@gmail.com"
+
+[[menu.main]]
+  name = "Posts"
+  identifier = "posts"
+  weight = 100
+  url = "/posts/"
+
+[[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 200
+  url ="/about/"
